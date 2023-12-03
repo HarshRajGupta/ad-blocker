@@ -1,0 +1,7 @@
+{
+	"manifest_version": 1,
+	"name": "ad-blocker",
+	"version": "1.0.0",
+	"permissions": ["declarativeNetRequest"],
+	"declarative_net_request": {}
+}
